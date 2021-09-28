@@ -1,5 +1,5 @@
 
-#A NYU Computer Science Blog: [BURN RATE](https://blog.torchnyu.com/)
+# A NYU Computer Science Blog: [BURN RATE](https://blog.torchnyu.com/)
 
 I find this website/ blog really useful because this blog is written by an accomplished Computer Science/ Mathematics student who goes to NYU. I find him relatable and a slight role model. If you read his earlier blog posts you see that he has gone through everything that a typical NYU CS students would go through. Few of the things that he writes about is classes, NYU, finding internship, finding a niche, motivation and computer science. For example he wrote about how to succeed in CS201 CSO class and anybody who have read that post had a better time passing that class. I remember the time when his blog post on CS201 was sent to my class discords channel. I can tell everybody was appreciative for this blog post. Similar to that his approach on finding internships and jobs is really helpful because lots of people actually need this advice. With class pressures sometimes us students don't know what to do for getting jobs and his posts that uses his personal experiences shines light on what to do.
 
